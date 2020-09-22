@@ -1,4 +1,4 @@
-### Hi there, I'm Rhian 👋
+## Hi there, I'm Rhian 👋
 
 <a href="https://www.linkedin.com/in/rhian-lopes-da-costa-526210176/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/ryansoldier.jar/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
