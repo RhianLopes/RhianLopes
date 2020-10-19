@@ -6,8 +6,6 @@
 
 Hi! I’m 17 years old, Computer Technician Student at IFSul, Full Stack Software Developer at CWI Software. I’m passionate about studying, software solutions and animals.
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/RhianLopes/RhianLopes?style=for-the-badge)](https://github.com/RhianLopes/RhianLopes)
 ![Repos Badge](https://badges.pufler.dev/repos/RhianLopes?style=for-the-badge)
 [![Years Badge](https://badges.pufler.dev/years/RhianLopes?style=for-the-badge)](https://badges.pufler.dev)
 
