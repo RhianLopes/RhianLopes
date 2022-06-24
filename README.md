@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/rhianlopes_/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:rhianlopes63@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
-Hi! I'm Rhian a coffee and animals lover, Full-Stack Developer 👨🏻‍💻 at CWI Software and Computer Technician Student 📚 at IFSul in my senior year.
+Hi! I'm Rhian a coffee and animals lover, Full-Stack Developer 👨🏻‍💻 at CWI Software and Computer Technician 📚 at IFSul.
 
 Today, I develop principally in Java with Spring Boot and JavaScript with React, but I am passionate about software solutions, new technologies, software integrations with custom applications, studying to always ready for new challenges!!
 
