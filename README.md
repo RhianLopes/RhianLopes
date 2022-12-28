@@ -10,9 +10,6 @@ Today, I develop principally in Java with Spring Boot and JavaScript with React,
 
 I'm a DevOps Engineer ⚙️ enthusiast on my team, I'm studying to apply them to my projects and final project at IFSul. Today, I'm studying Docker, K8s, AWS and monitoring tools like Grafana, Loki, Prometheus.
 
-![Repos Badge](https://badges.pufler.dev/repos/RhianLopes?style=for-the-badge)
-[![Years Badge](https://badges.pufler.dev/years/RhianLopes?style=for-the-badge)](https://badges.pufler.dev)
-
 ## :octocat: Github Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RhianLopes&count_private=true&show_icons=true&theme=algolia&line_height=27)
